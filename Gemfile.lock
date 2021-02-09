@@ -349,7 +349,7 @@ GEM
       ffi (>= 1.0.6)
       msgpack (>= 0.4.3)
       trollop (>= 1.16.2)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     redis (3.3.1)
     ref (2.0.0)
     responders (2.2.0)
